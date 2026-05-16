@@ -5,7 +5,7 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=61DAFB&center=true&vCenter=true&width=500&lines=Fullstack+Web+Developer+%F0%9F%9A%80;Digital+Marketer+%F0%9F%94%8C)
 
 [![Portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://adamucreates.online/)
-![Profile Views](https://komarev.com/ghpvc/?username=adamulab&color=61dafb&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=adamucreates&color=61dafb&style=for-the-badge)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:engr.adamulab@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/adamucreates)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/adamucreates)
